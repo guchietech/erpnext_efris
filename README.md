@@ -1,4 +1,4 @@
-## ERPNext KSA
+## ERPNext Efris
 
 App to hold regional code for Kingdom of Saudi Arabia, built on top of ERPNext.
 
